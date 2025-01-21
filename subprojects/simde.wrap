@@ -1,0 +1,7 @@
+[wrap-git]
+directory = simde
+url = https://github.com/simd-everywhere/simde.git
+revision = v0.8.2
+
+[provide]
+simde = simde_dep
